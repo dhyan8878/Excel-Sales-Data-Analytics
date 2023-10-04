@@ -1,42 +1,31 @@
 # Sales and Finance Analytics
 
-### Project Objectives:
+- **Project Objectives:**
 
-1. **Generate a [Customer Performance Report](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/Customer%20Performance%20Report.pdf)** for detailed customer insights.
+    **1.** Generate a [Customer Performance Report](htps://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/Customer%20Performance%20Report.pdf)** for detailed customer insights.
 
-2. **Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)** to evaluate market effectiveness.
+    **2.** Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)** to evaluate market effectiveness.
 
-### Purpose of Sales Analytics:
-
+- **Purpose of Sales Analytics:**
 Empower businesses by providing the tools to continuously monitor and optimize sales activities and performance.
 
-### Importance of Analyzing Sales Data:
+- **Importance of Analyzing Sales Data:** Efficiently identify sales patterns and closely track Key Performance Indicators (KPIs) to make informed, data-driven decisions.
 
-Efficiently identify sales patterns and closely track Key Performance Indicators (KPIs) to make informed, data-driven decisions.
-
-### Role of Reports:
-
-These reports play a pivotal role in determining effective customer discounts, streamlining negotiations with consumers, and identifying potential business expansion opportunities in promising countries.
+- **Role of Reports:** These reports play a pivotal role in determining effective customer discounts, streamlining negotiations with consumers, and identifying potential business expansion opportunities in promising countries.
 
 ## Finance Report:
 
-### Project Objectives:
+- **Project Objectives:**
 
-1. **Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)** and **[Months](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/P%26L%20Statement%20by%20Month.pdf)** to analyze financial performance over different timeframes.
+  **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)** and **[Months](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/P%26L%20Statement%20by%20Month.pdf)** to analyze financial performance over different timeframes.
 
-2. **Generate Profit and Loss (P&L) reports by [Markets](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)** for in-depth market-specific insights.
+  **2.** Generate Profit and Loss (P&L) reports by [Markets](https://github.com/dhyan8878/Excel-Sales-Data-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)** for in-depth market-specific insights.
 
-### Purpose of Financial Analytics:
+- **Purpose of Financial Analytics:** Evaluate financial performance, facilitate data-driven decision-making, and enhance communication with stakeholders.
 
-Evaluate financial performance, facilitate data-driven decision-making, and enhance communication with stakeholders.
+- **Importance of Analyzing Finance Data:** Analyzing financial data is vital for benchmarking against industry peers and historical performance, providing the foundation for effective budgeting and forecasting.
 
-### Importance of Analyzing Finance Data:
-
-Analyzing financial data is vital for benchmarking against industry peers and historical performance, providing the foundation for effective budgeting and forecasting.
-
-### Role of Reports:
-
-These reports serve as a strategic tool to align financial planning with organizational goals and instill confidence in the organization's financial outlook.
+- **Role of Reports:** These reports serve as a strategic tool to align financial planning with organizational goals and instill confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills:
 
